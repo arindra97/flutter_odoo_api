@@ -1,4 +1,5 @@
-// ignore_for_file: public_member_api_docs, sort_constructors_first
+/// The ResPartner class represents a partner entity with properties like name, email, phone, street,
+/// city, and zip.
 class ResPartner {
   int? id;
   final String name;
