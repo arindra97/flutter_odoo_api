@@ -35,21 +35,22 @@ This file contains the Flutter code for:
 -   Fetching partner data from the Odoo API.
 -   Displaying partner data in a list view.
 
-    <image src="public/image/[mobile]list_res_partner.jpg" height="350px">
+    <image src="public/image/mobile_list_res_partner.jpg" height="350px">
 
 -   Creating new partner records through a form.
 
-    <image src="public/image/[mobile]add_partner.jpg" height="350px">
-    <image src="public/image/[mobile]add_partner_fill.jpg" height="350px">
-    <image src="public/image/[mobile]add_partner_result.jpg" height="350px">
+    <image src="public/image/mobile_add_partner.jpg" height="350px">
+    <image src="public/image/mobile_add_partner_fill.jpg" height="350px">
+    <image src="public/image/mobile_add_partner_result.jpg" height="350px">
 
 -   Updating existing partner records.
 
-    <image src="public/image/[mobile]update_partner.jpg" height="350px">
-    <image src="public/image/[mobile]update_partner_result.jpg" height="350px">
+    <image src="public/image/mobile_update_partner.jpg" height="350px">
+    <image src="public/image/mobile_update_partner_result.jpg" height="350px">
 
 -   Deleting partner records.
-    <image src="public/image/[mobile]del_partner.jpg" height="350px">
-    <image src="public/image/[mobile]de_partner_result.jpg" height="350px">
+
+    <image src="public/image/mobile_del_partner.jpg" height="350px">
+    <image src="public/image/mobile_del_partner_result.jpg" height="350px">
 
 This project showcases the integration of Odoo 14 with a Flutter mobile application, demonstrating the ability to perform CRUD operations on Odoo data through a REST API.
